@@ -1,6 +1,6 @@
 [package]
 name = "json2str"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Thiago Oliveira <thiago@signaes.com>"]
 description = "A simple CLI tool to read a JSON file and get back it as a quoted string"
